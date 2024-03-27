@@ -53,6 +53,11 @@
             }
 
         }
+
+        //el = elemento, val = valor
+        function aria_exp( el, val ) {
+            el.setAttribute( 'aria-expanded', val );
+        }
         
         tel_b.addEventListener( 'click', () => menu_tel() );
 
