@@ -12,6 +12,7 @@
     <meta http-equiv='pragma' content='no-cache'>
 </head>
 <body class="parrulo">
+
     <a class="n-p s-c abs" href="#c-p">Saltar al contenido</a>
     <header id="cabeceira" class="rel t-c r-t">
         <div class="logo"><a href="https://aprengal.github.io"><img src="/logo.svg" alt="Aprengal" width="90" height="90"></a><button class="svg boton tel-b s-p" aria-expanded="false" title="Principal"><span class="lector-p">Interactuar con el menú principal</span></button></div><div class="m-t"><div class="m-t-int"><nav class="m-p s-l" aria-label="Principal"><ul class="menu-p"><li><a href="/caso1">Caso 1</a></li><li class="el-actual"><a href="/caso2" aria-current="page">Caso 2</a></li><li><a href="/caso3">Caso 3</a></li><li><a href="/caso4">Caso 4</a></li><li><a href="/sobre">Acerca de</a></li></ul></nav></div></div>
@@ -24,8 +25,10 @@
             </div>
         </article>
     </main>
+
     <footer>
         <nav class="t-c" aria-label="Enlaces sociales"><h2 class="lector-p">Enlaces sociales</h2><p role="list" class="ic-soc r-v"><span><a href="https://www.facebook.com/aprengal"><span class="lector-p">Facebook</span><span class="svg fb"></span></a></span> <span><a href="https://twitter.com/aprengal"><span class="lector-p">X (antigo Twitter)</span><span class="svg x"></span></a></span> <span><a href="https://www.instagram.com/aprengal_/"><span class="lector-p">Instagram</span><span class="svg insta"></span></a></span></p></nav>
     </footer>
+
 </body>
 </html>
