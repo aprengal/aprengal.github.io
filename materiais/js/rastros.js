@@ -47,7 +47,6 @@
                     //Este tempo coincide cos ms que tarda en aparecer o menú para evitar que desaparezca de golpe
                     setTimeout( () => {
                         m_t_list.remove( 'si' );
-                        if ( pan ) { focus_faragullas( false ) };
                     }, 375);
                 }
             }
