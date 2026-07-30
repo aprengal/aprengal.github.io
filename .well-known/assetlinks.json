@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "lendasnubeiras",
+    "package_name": "com.aprengal.lendasnubeiras",
+    "sha256_cert_fingerprints": [
+      "2C:FC:72:4E:1B:BA:3C:73:6A:22:56:16:66:FD:83:0B:72:97:29:9E:BD:5F:54:77:6C:96:52:76:6E:DF:CB:A2G",
+      "D6:E5:52:04:74:26:9C:9C:BB:E7:67:41:6B:0F:D7:4F:D2:99:26:4D:56:0D:3B:FC:AE:3A:01:ED:E9:DD:07:93"
+    ]
+  }
+}]
